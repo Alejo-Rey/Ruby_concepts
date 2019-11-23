@@ -1,0 +1,4 @@
+this is a file
+whit some text
+inside
+Append another line here 
